@@ -1,0 +1,11 @@
+console.log('Boas vindas a calculadora de trocos!')
+
+let valorCompra = 17.50
+let valorPago = 20
+
+console.log('Valor da Compra: R$', valorCompra)
+console.log('Valor recebido: R$', valorPago)
+
+let troco = valorPago - valorCompra
+
+console.log('O Troco a devolver: R$', troco)
